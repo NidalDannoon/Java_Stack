@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IPhone
+comment1.params=versionNumber\ batteryPercentage\ carrier\ ringTone
+comment1.target=IPhone(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ ring()
+comment3.params=
+comment3.target=java.lang.String\ unlock()
+comment4.params=
+comment4.target=void\ displayInfo()
+numComments=5

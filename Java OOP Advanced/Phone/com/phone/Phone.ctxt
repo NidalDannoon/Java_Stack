@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Phone
+comment1.params=versionNumber\ batteryPercentage\ carrier\ ringTone
+comment1.target=Phone(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ displayInfo()
+comment2.params=
+comment2.target=java.lang.String\ getVersionNumber()
+comment3.params=
+comment3.target=int\ getBatteryPercentage()
+comment4.params=
+comment4.target=java.lang.String\ getCarrier()
+comment5.params=
+comment5.target=java.lang.String\ getRingTone()
+comment6.params=versionNumber
+comment6.target=void\ setVersionNumber(java.lang.String)
+comment7.params=batteryPercentage
+comment7.target=void\ setBatteryPercentage(int)
+comment8.params=carrier
+comment8.target=void\ setCarrier(java.lang.String)
+comment9.params=ringTone
+comment9.target=void\ setRingTone(java.lang.String)
+numComments=11
