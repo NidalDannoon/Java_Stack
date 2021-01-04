@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pokedex
+comment1.params=
+comment1.target=Pokedex()
+comment2.params=name\ health\ type
+comment2.target=Pokemon\ createPokemon(java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ listPokemon()
+numComments=4
