@@ -1,0 +1,18 @@
+h1.blue {
+	color:blue;
+}
+h1.green {
+	color: green;
+}
+.choices{
+	font-size:24px;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.choice1{
+	margin-left:250px;
+}
+.choice2{
+	margin-right:250px;
+}
