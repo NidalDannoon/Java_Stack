@@ -84,7 +84,7 @@ public class OverflowController {
 	}
 	
 	@RequestMapping(value="/add-answer", method=RequestMethod.POST)
-	public String addAnswer(@Valid @ModelAttribute("answer")Answer answer, BindingResult result){
+	public String addAnswer(@Valid @ModelAttribute("answers")Answer answer, BindingResult result){
 		System.out.println(answer.getId());
 		answerService.createAnswer(answer);
 		Long myID = answer.getQuestion().getId();
